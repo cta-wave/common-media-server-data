@@ -1,4 +1,9 @@
 # common-media-server-data
+Editors:
+- Will Law - Akamai
+- Ali Begen - Comcast
+- Josh Evans - Datazoom
+
 A repository to collect discussion and feedback on the Common Media Server Data proposal. The current draft document can be accessed [here](https://docs.google.com/document/d/1BlTHfbF2VGSlA4vLx1fMssWqiGWYuzhmTfQ8VeyxF8g).
 
 Any contribution made to the issues of this repository that results in a “shall” requirement pointing to an essential patent will require the company or individual holding the IPR to submit a Patent Holder Statement form. See https://standards.cta.tech/kwspub/rules/CTA-EP-23-T-IP-Proffer.pdf. Contributors are obliged to disclose to the working group any knowledge they may have of existing essential patents (or an intent to patent items whenever appropriate) affecting the work covered by this repository. 
