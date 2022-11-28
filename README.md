@@ -1,5 +1,8 @@
 # Common Media Server Data (CMSD)
 
+**Update: November 28, 2022 - CMSD is now formally published as CTA-5006. You may [download a copy](https://shop.cta.tech/collections/standards/products/web-application-video-ecosystem-common-media-server-data-cta-5006), free of charge, from the CTA store.**
+---
+
 Editors:
 - Will Law - Akamai
 - Ali C. Begen - Comcast / Ozyegin University
