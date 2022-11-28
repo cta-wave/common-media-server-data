@@ -8,7 +8,7 @@ Editors:
 - Ali C. Begen - Comcast / Ozyegin University
 - Josh Evans - Datazoom
 
-This is the repository to collect discussion and feedback on the Common Media Server Data (CMSD) proposal, which is developed as a companion to the [Common Media Client Data (CMCD) standard (CTA-5004)](https://shop.cta.tech/products/web-application-video-ecosystem-common-media-client-data-cta-5004). The current CMSD draft document can be accessed [here](https://docs.google.com/document/d/1BlTHfbF2VGSlA4vLx1fMssWqiGWYuzhmTfQ8VeyxF8g). Feel free to open issues or comment on the draft directly.
+This is the repository to collect discussion and feedback on the Common Media Server Data (CMSD) proposal, which is developed as a companion to the [Common Media Client Data (CMCD) standard (CTA-5004)](https://shop.cta.tech/products/web-application-video-ecosystem-common-media-client-data-cta-5004). 
 
 Any contribution made to the issues of this repository that results in a “shall” requirement pointing to an essential patent will require the company or individual holding the IPR to submit a [Patent Holder Statement form](https://standards.cta.tech/kwspub/rules/CTA-EP-23-T-IP-Proffer.pdf). Contributors are obliged to disclose to the working group any knowledge they may have of existing essential patents (or an intent to patent items whenever appropriate) affecting the work covered by this repository.
 
