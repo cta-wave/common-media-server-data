@@ -8,11 +8,11 @@ Editors:
 - Ali C. Begen - Comcast / Ozyegin University
 - Josh Evans - Datazoom
 
-This is the repository to collect discussion and feedback on the Common Media Server Data (CMSD) proposal, which is developed as a companion to the [Common Media Client Data (CMCD) standard (CTA-5004)](https://shop.cta.tech/products/web-application-video-ecosystem-common-media-client-data-cta-5004). 
+This is the repository to collect discussion and feedback on the Common Media Server Data (CMSD) proposal, which is developed as a companion to the [Common Media Client Data (CMCD) standard (CTA-5004)](https://www.cta.tech/standards/cta-5004/). 
 
-Any contribution made to the issues of this repository that results in a “shall” requirement pointing to an essential patent will require the company or individual holding the IPR to submit a [Patent Holder Statement form](https://standards.cta.tech/kwspub/rules/CTA-EP-23-T-IP-Proffer.pdf). Contributors are obliged to disclose to the working group any knowledge they may have of existing essential patents (or an intent to patent items whenever appropriate) affecting the work covered by this repository.
+Any contribution made to the issues of this repository that results in a “shall” requirement pointing to an essential patent will require the company or individual holding the IPR to submit a [Patent Holder Statement form](https://cdn.cta.tech/cta/media/media/pdfs/cta-ep-23-v-ip-proffers.pdf). Contributors are obliged to disclose to the working group any knowledge they may have of existing essential patents (or an intent to patent items whenever appropriate) affecting the work covered by this repository.
 
-Note that CTA is not responsible for identifying any patents for which a license may be required by a CTA document, nor for conducting inquiries into the legal validity or scope of those patents that are brought to its attention. For further IPR information, see Section 15 of [EP-23](https://standards.cta.tech/kwspub/rules/EP-23-U-Final.pdf).
+Note that CTA is not responsible for identifying any patents for which a license may be required by a CTA document, nor for conducting inquiries into the legal validity or scope of those patents that are brought to its attention. For further IPR information, see Section 15 of CTA-EP-23 which may be found at [the CTA Standards Rules page](https://www.cta.tech/about/standards/rules/).
 
 If you are interested in getting involved in the CMSD group, please contact Alexandra Blasgen at CTA (ablasgen at cta.tech).
 
